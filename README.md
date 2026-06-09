@@ -6,6 +6,6 @@
   </a>
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8tzvo7gxemjnhhutjdkp4ssju)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8tzvo7gxemjnhhutjdkp4ssju&count=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hiraethhere&theme=dark)](https://git.io/streak-stats)
